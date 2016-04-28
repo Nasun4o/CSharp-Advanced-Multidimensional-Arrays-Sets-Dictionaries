@@ -1,0 +1,6 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\bin\Debug\CollectedCoins.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\bin\Debug\CollectedCoins.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\bin\Debug\CollectedCoins.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\obj\Debug\CollectedCoins.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\obj\Debug\CollectedCoins.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CollectedCoins\obj\Debug\CollectedCoins.pdb

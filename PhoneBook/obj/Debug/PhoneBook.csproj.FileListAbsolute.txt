@@ -1,0 +1,6 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\bin\Debug\PhoneBook.exe.config
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\bin\Debug\PhoneBook.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\bin\Debug\PhoneBook.pdb
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\obj\Debug\PhoneBook.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\PhoneBook\obj\Debug\PhoneBook.pdb

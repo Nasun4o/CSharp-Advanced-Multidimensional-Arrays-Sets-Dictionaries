@@ -1,0 +1,6 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\bin\Debug\CountSymbols.exe.config
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\bin\Debug\CountSymbols.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\bin\Debug\CountSymbols.pdb
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\obj\Debug\CountSymbols.csprojResolveAssemblyReference.cache
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\obj\Debug\CountSymbols.exe
+c:\users\pc-pc\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\CountSymbols\obj\Debug\CountSymbols.pdb

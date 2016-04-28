@@ -1,0 +1,6 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\bin\Debug\MatrixShuffle.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\bin\Debug\MatrixShuffle.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\bin\Debug\MatrixShuffle.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\obj\Debug\MatrixShuffle.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\obj\Debug\MatrixShuffle.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkMultidimensionalArraysSetsEtc\MatrixShuffle\obj\Debug\MatrixShuffle.pdb
